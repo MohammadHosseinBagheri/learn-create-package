@@ -1,0 +1,27 @@
+{
+  "name": "start-wars-package",
+  "version": "1.0.0",
+  "description": "it's test for learning",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadHosseinBagheri/learn-create-package.git"
+  },
+  "keywords": [
+    "random",
+    "start",
+    "wars"
+  ],
+  "author": "M.Hossein <mohammadbagheri228@gmail.com> (https://imohammadhossein.ir/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohammadHosseinBagheri/learn-create-package/issues"
+  },
+  "homepage": "https://github.com/MohammadHosseinBagheri/learn-create-package#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
