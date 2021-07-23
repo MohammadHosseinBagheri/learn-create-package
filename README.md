@@ -9,12 +9,16 @@
    - npm set save-exact true
    - npm set init-author-url
    - npm set init-license
-     ## beta version
   # init package json
   # git push
   # git tag version
   # git push --tags 
   # npm publish
+  # beta version
+   - set beta into package.json version
+   - git tag 0.0.0-beta-0
+   - git push --tags
+   - npm publish --tag beta
   # npm info
 
 
