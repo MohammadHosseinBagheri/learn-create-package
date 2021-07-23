@@ -7,7 +7,7 @@
     "test": "mocha src/index.test.js -w"
   },
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/@mohammadhosseinbagheri"
+    "registry":"https://npm.pkg.github.com/"
 },
   "repository": {
     "type": "git",
