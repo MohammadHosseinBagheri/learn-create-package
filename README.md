@@ -1,5 +1,6 @@
 # learn-create-package
 ![version](https://raster.shields.io/npm/v/start-wars-package)
+![GitHub branch checks state](https://img.shields.io/github/checks-status/mohammadhosseinbagheri/learn-create-package/main)
 ## It's test for learning how do i publish npm package.
 ### steps
   # register
