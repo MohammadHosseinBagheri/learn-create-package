@@ -14,6 +14,7 @@
   # git tag version
   # git push --tags 
   # npm publish
+  # release new draft in github acc
   # beta version
    - set beta into package.json version
    - git tag 0.0.0-beta-0
