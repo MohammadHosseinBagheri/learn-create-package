@@ -9,6 +9,7 @@
    - npm set save-exact true
    - npm set init-author-url
    - npm set init-license
+   - # beta version
   # init package json
   # git push
   # git tag version
