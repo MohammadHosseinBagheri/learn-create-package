@@ -4,11 +4,11 @@
 ### steps
   # register
   # npm config
-   npm set init-author-name
-   npm set init-author-email
-   npm set save-exact true
-   npm set init-author-url
-   npm set init-license
+   # npm set init-author-name
+   # npm set init-author-email
+   # npm set save-exact true
+   # npm set init-author-url
+   # npm set init-license
   # init package json
   # git push
   # git tag version
